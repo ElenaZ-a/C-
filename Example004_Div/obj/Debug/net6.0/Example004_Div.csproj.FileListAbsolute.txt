@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Examples\Example001_HelloConsole\Example003_Sum\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
