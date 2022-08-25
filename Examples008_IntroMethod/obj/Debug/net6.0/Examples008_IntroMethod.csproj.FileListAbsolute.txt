@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\Examples008_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\Examples008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\Examples008_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\Examples008_IntroMethod.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\Examples008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\bin\Debug\net6.0\Examples008_IntroMethod.exe
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\bin\Debug\net6.0\Examples008_IntroMethod.deps.json
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\bin\Debug\net6.0\Examples008_IntroMethod.runtimeconfig.json
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\bin\Debug\net6.0\Examples008_IntroMethod.dll
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\bin\Debug\net6.0\Examples008_IntroMethod.pdb
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\Examples008_IntroMethod.dll
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\refint\Examples008_IntroMethod.dll
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\Examples008_IntroMethod.pdb
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\Examples008_IntroMethod.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Examples\Examples008_IntroMethod\obj\Debug\net6.0\ref\Examples008_IntroMethod.dll

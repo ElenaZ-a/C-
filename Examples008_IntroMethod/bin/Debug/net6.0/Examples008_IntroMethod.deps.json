@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Examples008_IntroMethod/1.0.0": {
+        "runtime": {
+          "Examples008_IntroMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examples008_IntroMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
