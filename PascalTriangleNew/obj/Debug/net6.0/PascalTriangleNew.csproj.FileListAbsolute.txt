@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\bin\Debug\net6.0\PascalTriangleNew.exe
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\bin\Debug\net6.0\PascalTriangleNew.deps.json
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\bin\Debug\net6.0\PascalTriangleNew.runtimeconfig.json
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\bin\Debug\net6.0\PascalTriangleNew.dll
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\bin\Debug\net6.0\PascalTriangleNew.pdb
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\PascalTriangleNew.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\PascalTriangleNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\PascalTriangleNew.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\PascalTriangleNew.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\PascalTriangleNew.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\PascalTriangleNew.dll
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\refint\PascalTriangleNew.dll
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\PascalTriangleNew.pdb
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\PascalTriangleNew.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Examples\PascalTriangleNew\obj\Debug\net6.0\ref\PascalTriangleNew.dll
